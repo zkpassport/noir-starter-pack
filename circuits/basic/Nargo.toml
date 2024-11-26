@@ -1,0 +1,5 @@
+[package]
+name = "basic"
+type = "bin"
+
+[dependencies]

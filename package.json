@@ -1,0 +1,17 @@
+{
+  "name": "noir-starter-pack",
+  "description": "A template repository to get started with writing zero-knowledge programs with Noir using TypeScript for tests.",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.1.14"
+  },
+  "dependencies": {
+    "@noir-lang/backend_barretenberg": "0.36.0",
+    "@noir-lang/noir_js": "0.36.0",
+    "@noir-lang/noir_wasm": "0.36.0",
+    "@noir-lang/types": "0.36.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
